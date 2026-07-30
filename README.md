@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jithin Rajan</h1> <h3 align="center">Graduate Student · ML/CV & Robotics Engineer · Full-Stack Builder</h3> <p align="center"> <a href="https://jithin06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jithin-rajan-832b40230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:jithinr2105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=V3XqzDwAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a> </p>
-🚀 About Me
-🎓 MS in Computer Science @ University of Southern California
-🔬 Currently a Software & Robotics Engineer at the USC Baum Family Maker Space — Advanced Fabrication Lab
-🧠 Interests: Machine Learning, Computer Vision, Robotics, Optimization, and their applications in healthcare
-📝 Published research on GAN-based super-resolution for CT chest imaging (IC2E3 2023)
-🌍 Past research at IIT Bombay, NTU Singapore, IIT Roorkee, NIT Trichy
-🛠️ Tech Stack
+<h1 align="center">Hi, I'm Jithin Rajan</h1> <h3 align="center">Graduate Student · ML/CV & Robotics Engineer · Full-Stack Developer</h3> <p align="center"> <a href="https://jithin06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jithin-rajan-832b40230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:jithinr2105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=V3XqzDwAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a> </p>
+
+### About Me
+
+- MS in Computer Science @ **University of Southern California** 
+- Currently a **Software & Robotics Engineer** at the USC Baum Family Maker Space — Advanced Fabrication Lab
+- Interests: Machine Learning, Computer Vision, Robotics, Optimization and their applications in healthcare
+- Published research on GAN-based super-resolution for CT chest imaging (IC2E3 2023)
+- Past research at IIT Bombay, NTU Singapore, IIT Roorkee, NIT Trichy
 
 Languages
 
