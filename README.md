@@ -30,12 +30,12 @@ Full-stack platform (React + Node/Express) to help students discover professors 
 
 </td> <td width="50%" valign="top">
 
-🖼️ Image-to-STL Converter
+🖼️ [Image-to-STL Converter](https://github.com/Jithin06/image-to-stl)
 Local, zero-API-cost pipeline (FastAPI + React) that turns 2D photos into watertight, 3D-printable STL meshes using Depth-Anything-V2 depth estimation and SAM segmentation.
 
 </td> </tr> <tr> <td width="50%" valign="top">
 
-🎟️ Co(l)de-Play
+🎟️ [Co(l)de-Play](https://github.com/Jithin06/Co-l-de-Play)
 Blockchain-backed event-ticketing platform on Tezos, cutting resale price inflation by 80% with secure ownership verification and Temple Wallet integration.
 
 </td> <td width="50%" valign="top">
@@ -45,10 +45,11 @@ Offline simulation and real-time control pipelines for 6-axis Stäubli TX60 and 
 
 </td> </tr> </table>
 
-Update the links above to point at each project's repo, e.g. [Academia](https://github.com/Jithin06/academia)
-
+<!--
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jithin06&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithin06&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jithin06&hide_border=true" /> </p>
+-->
+
 <p align="center"> 📫 Reach me at <a href="mailto:jithinr2105@gmail.com">jithinr2105@gmail.com</a> or via <a href="https://www.linkedin.com/in/jithin-rajan-832b40230">LinkedIn</a> </p>
 
 <!--
